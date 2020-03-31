@@ -1,7 +1,7 @@
 # Partial.ly-Widget-with-JavaScript-and-Squarespace
 
 <h3>Function & Description:</h3>
-This is a widget + button I customised with some bits of JavaScript code for a client. They specialise in making attention-grabbing packages/boxes that help their clients drive sales. This widget + button from partial.ly allows their clients pay for this service installmentally.  
+This is a widget + button thingy I customised with some bits of JavaScript code for a client. They specialise in making attention-grabbing packages/boxes that help their clients drive sales. This widget + button from partial.ly allows their clients pay for this service installmentally.  
 
 <h3>Challenge faced:</h3>
 The widget would not show up on the landing page, no matter what the client tried. So, I had to log in from my end to fix it. I also could not get the button to display at first.
